@@ -1,1 +1,2 @@
-# joinul
+@echo off
+ Ipconfig /relaese
